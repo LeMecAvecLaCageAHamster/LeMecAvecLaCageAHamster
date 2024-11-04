@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Quentin Pénault
+=======================================================================================================================================
 
-<!--
-**LeMecAvecLaCageAHamster/LeMecAvecLaCageAHamster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer
+-------------
 
-Here are some ideas to get you started:
+I am a web developer with a passion for creating personal projects and exploring Unity and Godot for game development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Rennes
+* 🖥️  See my portfolio at [my personal website](http://https://lemecaveclacageahamster.github.io/)
+* ✉️  You can contact me at [quentinpenault@gmail.com](mailto:quentinpenault@gmail.com)
+* 🚀  I'm currently working on [a mobile game : "Go, Fast !" (personal project)](//https://play.google.com/store/apps/details?id=com.github.gofastgame)
+* 🧠  I'm learning Vue 3, C# and GDScript
+* ⚡  I love Unity and I'm currently working on Godot for my project
